@@ -9,7 +9,7 @@ const Navbar = () => {
     <div className="bg-[#F1F3FF] py-[25px] ">
       <Container>
         <div className="flex justify-between">
-          <div>Logo</div>
+          <div className="bg-[#0D28A6] w-[100px] h-[34px]"></div>
           <button
             onClick={() => {
               setOpen(!open);

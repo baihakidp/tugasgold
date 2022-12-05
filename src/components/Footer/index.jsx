@@ -28,7 +28,7 @@ const Footer = () => {
       </div>
       <div>
         <div>Copyright Binar 2022</div>
-        <div>Logo</div>
+        <div className="bg-[#0D28A6] w-[100px] h-[34px]"></div>
       </div>
     </Container>
   );
